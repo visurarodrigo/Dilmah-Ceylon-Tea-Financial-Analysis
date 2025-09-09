@@ -38,6 +38,12 @@ The analysis includes
 - Market ratios indicate consistent investor confidence despite lower earnings per share.
 - Recommendations include cost control, optimizing working capital, balanced dividend policy, and strategic reinvestment.
 
+![Common Size - Income Statement ](https://github.com/user-attachments/assets/85ee1764-51a6-435d-940d-311bbd72488b)
+![Common Size - Balance Sheet](https://github.com/user-attachments/assets/4d11e97c-c1a5-4c86-87d6-d8916325df93)
+![Trend Analysis - Income Statement ](https://github.com/user-attachments/assets/3ba87786-f102-4a09-96ce-2e369c3ab7ba)
+![Trend Analysis - Balance sheet](https://github.com/user-attachments/assets/199cf4bc-67a9-4b5a-b084-e3161c647a61)
+![Ratio Summary ](https://github.com/user-attachments/assets/7a34d053-2fa3-425b-a86a-88f86cf070a7)
+
 ---
 
 ## How to Use
